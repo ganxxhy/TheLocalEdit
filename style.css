@@ -192,6 +192,8 @@ article h2 + p{
     padding: 10px 30px 10px 30px;
 
     height: 300px;
+
+    animation: aparecer 0.7s ease forwards;
 }
 
 .replies-info {
